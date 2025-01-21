@@ -99,9 +99,9 @@ const mockData = [
             <input class="form-check-input" type="checkbox" name="equipment[]" value="${item.id}">
             <label class="form-check-label fw-bold">${item.name}</label>
           </div>
-          <span class="badge bg-primary category-badge mb-2">${item.category}</span>
           <p class="card-text small mb-1">財產編號：${item.id}</p>
           <p class="card-text small mb-1">規格：${item.spec}</p>
+          <span class="badge bg-primary category-badge mb-2">${item.category}</span>
         </div>
       </div>
     `;
