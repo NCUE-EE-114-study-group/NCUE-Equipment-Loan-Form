@@ -1,4 +1,4 @@
-# 學生會器材借用網站
+# 測試用器材借用網站
 
 這是一個簡易的器材借用表單範例網站，使用了 [Bootstrap 5](https://getbootstrap.com/) 與 [Font Awesome](https://fontawesome.com/) 基礎的樣式與圖示。
 
