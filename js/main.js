@@ -12,7 +12,7 @@ const mockData = [
       id: "J2000002",
       name: "無線麥克風",
       category: "音響設備",
-      spec: "Shure SM58 這裡是比較長的規格文字以測試換行效果與overflow處理",
+      spec: "Shure SM58",
       location: "進德",
       image: ""
     },
@@ -28,7 +28,7 @@ const mockData = [
       id: "J4000004",
       name: "延長線",
       category: "什項用具",
-      spec: "5m 白色, 超長延長線, 可拉伸, 測試overflow的長文字",
+      spec: "5m 白色, 超長延長線, 可拉伸",
       location: "寶山",
       image: ""
     }
